@@ -6,3 +6,7 @@
 6.Static Methods
 7.Association, Aggregation, COmposition 
 8.Getter/Setter properties
+9.Inheritance 
+10.polymorphism
+11.Encapsulation 
+12.Abstraction
