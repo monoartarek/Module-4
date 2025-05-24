@@ -1,0 +1,6 @@
+# etodin ja porchi take proedural programming or functional programming bole
+# like len(), sum(), add() etc chilo ja muloto function 
+#ami segulate multiple type er data structure return korte partam na or grouping korte partam na. 
+#ami function gulo ke call korar por tader vetorer value gulo change korte prtam na jake immutable bole.
+#security kom chilo je keu call korte parto.
+
