@@ -1,4 +1,4 @@
- 
+#__init__ thakle Constructor – initializes brand and model
 #car class banabo, setar kichu object banabo 
 #Brand, Model
 
@@ -14,11 +14,6 @@ class car:
     def __init__(self): # self ei var class er object ke indicate kore, eita ekta default constructor coz eitate kono parameter nai 
         self.brand = ""
         self.model = ""
-    #parameterized constructor:
-    def __init__(self, brand, model):
-        self.brand = brand 
-        self.model = model
-
 
 #first car
 car1 = car()#object 
