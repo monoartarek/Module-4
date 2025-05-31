@@ -7,6 +7,7 @@ class Employee:
     
     def display_info(self): # instnce Method
         print(f"Emp Name: {self.name}\nSalary: {self.salary}")
+        
     #decorator er kotha mone ache? function decorator
     @classmethod
     def change_commpany_name(cls, name): # (eta ekta class method). aage object er jonno use kortm "self" and class er jonno amra use korbo "cls"
