@@ -22,3 +22,23 @@ Employee.change_commpany_name("XYZ company")  #amra obossoi class ke call kore c
 # globaly sob jaygay company name change korte eita use korte hobe
 print(ob1.company_name)
 print(ob2.company_name)
+
+
+
+
+
+
+
+
+
+# Ex: 02 class method er another example 
+
+
+# class Person:
+#     species = "Human"
+
+#     @classmethod
+#     def get_species(cls):             # Class method
+#         return cls.species
+
+# print(Person.get_species())             # Output: Human

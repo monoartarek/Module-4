@@ -11,7 +11,7 @@
 #amra normally jake function boli, seta ke class er moddhe banale amra take method boli     
 class car:
     #parameterized constructor:
-    def __init__(self, brand, model):
+    def __init__(self, brand, model): #class er nam e object create korle tokhon automatically sei class constructor ke call kore and kaj kore 
         self.brand = brand 
         self.model = model
 

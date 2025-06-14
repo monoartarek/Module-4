@@ -1,5 +1,5 @@
 # for tight security
-# je keu just seen korte parbe but edit korte parbe na 
+# je keu just seen korte parbe _salary but edit korte parbe na 
 
 class Employee:
     company_name = "Developers 7"

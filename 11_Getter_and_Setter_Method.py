@@ -3,11 +3,11 @@
 
 class Employee:
     company_name = "Ostad company"
-    def __init__(self, name, salary):
+    def __init__(self, name, salary): #constructor(__init__ thakar karone eita constructor)
         self.name = name
-        self._salary = salary #ami salary ta sobayke access korte dibo na ejonno salary er age ekta "_salary" underscore dite hobe.but er poreo eita private hobe na properly thats why ekta method use korte hobe jar nam getter method 
+        self._salary = salary #ami salary ta sobayke access korte dibo na ejonno salary er age ekta "_salary" underscore dite hobe.but er poreo eita private hobe na properly thats why ekta method use korte hobe jar nam "getter method" 
         #_salary with a single underscore means it is protected, not fully private. It's a convention that it shouldn't be accessed directly from outside the class.
-    def get_salary(self, password):
+    def get_salary(self, password): #method (class er bahire hoile function vetore hoile method)
         if password == "admin":
              print(self._salary)
 
